@@ -160,7 +160,7 @@ if ('cyber98.github.io' !== hname) {
             'LEhxs': function (_0xc93d32, _0x46482e) {
                 return _0xc93d32(_0x46482e);
             },
-            'BJorZ': 'mikhmon'
+            'BJorZ': 'cybertramp'
         };
         _0x79aaf0.LEhxs(Id, _0x79aaf0.BJorZ), _0x79aaf0.LEhxs(Id, 'powered');
     });
